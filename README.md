@@ -1,1 +1,1 @@
-# Device Tree for Xiaomi Redmi 8A (olivelite)
+# Device Tree for Xiaomi Redmi 8 (olive)

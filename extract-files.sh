@@ -14,7 +14,7 @@ fi
 
 set -e
 
-export DEVICE=olivelite
+export DEVICE=olive
 export DEVICE_COMMON=sdm439-common
 export VENDOR=xiaomi
 
